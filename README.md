@@ -3,9 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore the visualisation of maths through computer programs.\
-🎓 &nbsp;I'm currently studying Computer Science independently and plan on starting an undergraduate course at TUDelft this year.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, raytracing.\
+🎓 &nbsp;I'm currently studying Computer Science at TUDelft.
+🌱 &nbsp;I'm learning more about Artificial Intelligence, as well as exploring tools for website and app building.\
 ✍️ &nbsp;In my free time, I like to work out in the gym and cook.\
 ✉️ &nbsp;You can reach me at junhan.stepbystep@gmail.com!
 
