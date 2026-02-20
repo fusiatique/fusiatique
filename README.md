@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Science at TUDelft.
+🎓 &nbsp;I'm currently studying Computer Science at TUDelft.\
 🌱 &nbsp;I'm learning more about Artificial Intelligence, as well as exploring tools for website and app building.\
 ✍️ &nbsp;In my free time, I like to work out in the gym and cook.\
 ✉️ &nbsp;You can reach me at junhan.stepbystep@gmail.com!
